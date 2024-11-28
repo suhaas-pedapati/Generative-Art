@@ -10,4 +10,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to fork or contribute to this project. If you have any suggestions or find any issues, please open an [issue](https://github.com/your_username/weather-app/issues).
 
+Thank you!
 ---
